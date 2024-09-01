@@ -1,0 +1,9 @@
+from enum import IntEnum
+
+
+class EXTEND_DUPLICATED_STRATEGIES(IntEnum):
+    KEEP_EXISTING = 0
+    OVERWRITE = 1
+    RAISE = 2
+    MERGE_WITH_EXISTING_PRIORITY = 3
+    MERGE_WITH_NEW_PRIORITY = 4
