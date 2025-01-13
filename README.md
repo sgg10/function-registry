@@ -8,7 +8,7 @@ Function Registry is a Python library designed to help consolidate functions and
 ## Installation
 
 ### Requirements
-* Python 3.8 or higher
+* Python 3.9 or higher
 * pip, pipenv, or poetry
 
 ### Install with pip
